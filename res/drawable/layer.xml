@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Any number of images of our choice -->
+    <item android:drawable="@drawable/e5_2"/>
+    <item android:drawable="@drawable/orientation" android:id="@+id/orientationDial2"/>
+
+</layer-list>

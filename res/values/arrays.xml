@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="itwords">
+        <item>io no vedo</item>
+        <item>tu non vedi</item>
+        <item>non vedo nulla</item>
+        <item>Non vado mai</item>
+        <item>Non vengono</item>
+        <item>Non vedo niente</item>
+        <item>Non vado mai via</item>
+        <item>Nessuno viene</item>
+        <item>Dice di no</item>
+        <item>Credo di si</item>
+        <item>Non e bene</item>
+        <item>Non e male</item>
+        <item>Non e quello</item>
+        <item>Prague</item>
+        <item>Rome</item>
+        <item>Rio de Janeiro</item>
+        <item>Chicago</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Berlin</item>
+        <item>Tokyo</item>
+        <item>Budapest</item>
+        <item>Moscow</item>
+        <item>Geneva</item>
+        <item>Stockholm</item>
+        <item>Oslo</item>
+        <item>Copenhagen</item>
+        <item>Madrid</item>
+        <item>Lisbon</item>
+        <item>Shanghai</item>
+        <item>Karachi</item>
+        <item>Seoul</item>
+        <item>Mexico City</item>
+        <item>Seattle</item>
+        <item>Sáo Paulo</item>
+        <item>Mumbai</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Õsaka</item>
+        <item>Manila</item>
+        <item>Calcutta</item>
+        <item>Cairo</item>
+        <item>Lagos</item>
+        <item>Buenos Aires</item>
+        <item>Beijing</item>
+        <item>Dhaka</item>
+        <item>Madrid</item>
+        <item>Lisbon</item>
+        <item>Shanghai</item>
+        <item>Karachi</item>
+        <item>Seoul</item>
+        <item>Mexico City</item>
+        <item>Seattle</item>
+        <item>Sáo Paulo</item>
+        <item>Mumbai</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Õsaka</item>
+        <item>Manila</item>
+        <item>Calcutta</item>
+        <item>Cairo</item>
+        <item>Lagos</item>
+        <item>Buenos Aires</item>
+        <item>Beijing</item>
+        <item>Dhaka</item>
+        <item>Tianjin</item>
+        <item>Istanbul</item>
+        <item>Lima</item>
+        <item>Tehrãn</item>
+        <item>Chicago</item>
+        <item>Bogotá</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Essen</item>
+        <item>Ho Chi Minh City</item>
+        <item>Hangzhou</item>
+        <item>Hong Kong</item>
+        <item>Lahore</item>
+        <item>Shenyang</item>
+        <item>Rome</item>
+        <item>Changchun</item>
+        <item>Bangalore</item>
+        <item>Harbin</item>
+        <item>Chengdu</item>
+        <item>Santiago</item>
+        <item>Guangzhou</item>
+        <item>St. Petersburg</item>
+        <item>Kinshasa</item>
+        <item>Baghdad</item>
+        <item>Jinan</item>
+        <item>Houston</item>
+        <item>Toronto</item>
+        <item>Yangon</item>
+        <item>Alger</item>
+        <item>Philadelphia</item>
+        <item>Qingdao</item>
+        <item>Milano</item>
+        <item>Pusan</item>
+        <item>Belo Horizonte</item>
+        <item>Almadabad</item>
+        <item>Alexandria</item>
+        <item>Washington DC</item>
+        <item>Wuhan</item>
+        <item>Dallas</item>
+        <item>Guadalajara</item>
+        <item>Chongging</item>
+        <item>Medellin</item>
+        <item>Detroit</item>
+        <item>Handan</item>
+        <item>Frankfurt</item>
+        <item>Porto Alegre</item>
+        <item>Hanoi</item>
+        <item>Sydney</item>
+        <item>Santo Domingo</item>
+        <item>Singapore</item>
+        <item>Casablanca</item>
+        <item>Katowice</item>
+        <item>Pune</item>
+        <item>Bangdung</item>
+        <item>Monterrey</item>
+        <item>Montréal</item>
+        <item>Nagoya</item>
+        <item>Nanjing</item>
+        <item>Abidjanire</item>
+        <item>Xian</item>
+        <item>Riyadhia</item>
+        <item>Recife</item>
+        <item>Dusseldorf</item>
+        <item>Ankara</item>
+        <item>Melbourne</item>
+        <item>Salvador</item>
+        <item>Dalian</item>
+        <item>Caracas</item>
+        <item>Adis Abeba</item>
+        <item>Athina</item>
+        <item>Cape Town</item>
+        <item>Koln</item>
+        <item>Maputo</item>
+
+    </array>
+</resources>

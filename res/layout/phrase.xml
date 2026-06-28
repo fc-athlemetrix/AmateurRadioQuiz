@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:background="#000000" android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/phraseText"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center|center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="10dp"
+        android:background="#FFFFFF"
+        android:text="0/0"
+        android:textColor="#0026FF"
+        android:textSize="96sp"></TextView>
+
+  </LinearLayout>
+

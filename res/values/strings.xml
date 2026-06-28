@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioQuiz</string>
+    <string name="random">Random</string>
+    <string name="answer">Answer</string>
+    <string name="fast">Fast</string>
+    <string name="questiontag">question</string>
+    <string name="sensor_accuracy">SENSOR ACCURACY CHANGED</string>
+    <string name="sensor_value">SENSOR VALUE CHANGED</string>
+</resources>
